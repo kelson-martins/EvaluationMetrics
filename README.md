@@ -1,6 +1,8 @@
 evaluationmetrics
 =================
 
-Standard Information Retrieval evaluation metrics implementation - Recall, Precision and MAP
+Standard Information Retrieval evaluation metrics implementation.<br />
+Recall, Precision and MAP.<br />
 
-Developed as part of the Information Retrieve and Web Search Assignment 2. Griffith College Dublin - Masters in Computing
+Developed as part of the Information Retrieve and Web Search Module.<br /> 
+Griffith College Dublin - Masters in Computing
